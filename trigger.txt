@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+kafka:3.3.2 registry.cn-shenzhen.aliyuncs.com/czldockerpull/kafka:3.3.2
